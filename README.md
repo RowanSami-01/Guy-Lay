@@ -203,31 +203,6 @@ I focus on building systems that are fast, efficient, and reliable — whether t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Guy-Lay&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Guy-Lay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## **Skills:** :computer:
-
-### **Development & Engineering**  
-- Web Development (Next.js, Laravel, React, Django)  
-- Backend Development (PHP, Node.js, Python)  
-- DevOps & Security (Proxmox, Cloud-init, Webmin)  
-
-### **AI & Machine Learning**  
-- Deep Learning (TensorFlow, PyTorch)  
-- Image Processing & Classification  
-- AI-Driven Operating Systems  
-
-### **Blockchain & FinTech**  
-- Crypto Exchange & Trading Bots (CCXT, Laravel)  
-- Blockchain & Smart Contracts  
-- Crypto Loan Systems  
-
-### **Virtualization & Cloud**  
-- Virtual Machine Management (Proxmox API, NoVNC)  
-- Cloud Computing (AWS, Azure)  
-
-### **Programming Languages**  
-- Python, R, Java, C++, PHP, JavaScript and other
-
----
 
 🚀 AI Engineer & Prompt Specialist
 
@@ -285,14 +260,3 @@ NovaEdge Software — Remote
 
 🐍 Wrote Python automation scripts, saving 10+ hrs/week of manual work.
 
-If you’d like, I can also:
-
-Add a polished introduction for your GitHub README
-
-Add a skills section with icons/emojis
-
-Add GitHub stats badges or styling
-
-Format this as a portfolio-style page
-
-Just tell me what you want next! 🚀
