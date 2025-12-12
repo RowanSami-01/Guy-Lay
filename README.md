@@ -196,7 +196,7 @@ I focus on building systems that are fast, efficient, and reliable — whether t
 </table>
 <br/>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/aiko-chan-ai/aiko-chan-ai/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Guy-Lay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
