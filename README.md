@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Adrian%20Cole&fontSize=50&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AIxChain&fontSize=50&fontAlignY=35&animation=fadeIn" />
 </p>
 👋 Hi there, I'm Adrian Cole
 🚀 AI Engineer • Full-Stack Developer • Web3 Builder • AI Engineer
